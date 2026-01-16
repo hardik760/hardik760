@@ -1,5 +1,12 @@
-# 💫 About Me:
-🛠️ I’m currently working on<br>• Backend development projects using Node.js and Express<br>• Authentication systems with JWT, middleware, and role-based access<br>• Small full-stack projects to strengthen core concepts<br><br>🤝 I’m looking to collaborate on<br>• Beginner-friendly open-source projects<br>• Backend or full-stack JavaScript projects<br>• Learning-focused teams where I can grow and contribute<br><br>🆘 I’m looking for help with<br>• DevOps fundamentals like CI/CD and Docker<br>• Writing cleaner, more scalable backend code<br>• Understanding system design step by step<br><br>🌱 I’m currently learning<br>• Backend architecture (controllers, services, middleware)<br>• Databases with MongoDB<br>• DevOps basics (GitHub Actions, CI/CD)<br>• Basics of AI integration into applications<br><br>💬 Ask me about<br>• Node.js, Express, REST APIs<br>• Authentication (JWT, middleware)<br>• Learning backend development as a beginner<br><br>⚡ Fun fact<br>• I like understanding “why” something works before using it, and I enjoy breaking code to learn from it 😄<br>
+🛠️ Working on backend projects with Node.js & Express, focusing on JWT-based authentication and full-stack fundamentals.<br><br>
+
+🤝 Open to collaborating on beginner-friendly open-source or JavaScript projects.<br><br>
+
+🌱 Currently learning MongoDB, backend architecture, and DevOps basics (CI/CD, GitHub Actions, Docker).<br><br>
+
+💬 Ask me about REST APIs, authentication, and learning backend development.<br><br>
+
+⚡ Fun fact: I like understanding <i>why</i> things work and often break code to learn 😄
 
 
 ## 🌐 Socials:
