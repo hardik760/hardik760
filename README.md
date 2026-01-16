@@ -1,12 +1,20 @@
-🛠️ Working on backend projects with Node.js & Express, focusing on JWT-based authentication and full-stack fundamentals.<br><br>
+Hi there 👋<br><br>
 
-🤝 Open to collaborating on beginner-friendly open-source or JavaScript projects.<br><br>
+🛠️ I’m working on backend projects using Node.js and Express, with a strong focus on JWT-based authentication and full-stack fundamentals.<br><br>
 
-🌱 Currently learning MongoDB, backend architecture, and DevOps basics (CI/CD, GitHub Actions, Docker).<br><br>
+🤝 I’m open to collaborating on beginner-friendly open-source projects or JavaScript-based applications where I can learn and contribute.<br><br>
 
-💬 Ask me about REST APIs, authentication, and learning backend development.<br><br>
+🌱 I’m currently learning MongoDB, backend architecture (controllers, services, middleware), and DevOps basics such as CI/CD, GitHub Actions, and Docker.<br><br>
 
-⚡ Fun fact: I like understanding <i>why</i> things work and often break code to learn 😄
+💬 Ask me about REST APIs, authentication (JWT, middleware), and learning backend development as a beginner.<br><br>
+
+📊 I’ve solved 100+ DSA problems on LeetCode and actively practice problem-solving.  
+I’m currently rated 850 on Codeforces and continuously working to improve.<br><br>
+
+⚡ Fun fact: I like understanding <i>why</i> things work and often break code on purpose to learn 😄
+
+
+
 
 
 ## 🌐 Socials:
