@@ -4,11 +4,7 @@ Hi there 👋<br><br>
 🤝 I’m open to collaborating on beginner-friendly open-source projects or JavaScript-based applications where I can learn and contribute.<br><br>
 🌱 I’m currently learning MongoDB, backend architecture (controllers, services, middleware), and DevOps basics such as CI/CD, GitHub Actions, and Docker.<br><br>
 💬 Ask me about REST APIs, authentication (JWT, middleware), and learning backend development as a beginner.<br><br>
-<p align="center">
-  <a href="https://leetcode.com/u/hardik_singh2992/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.codechef.com/users/nam2hardik" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/NAM2HARDIK" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-</p>
+
 ⚡ Fun fact: I like understanding <i>why</i> things work and often break code on purpose to learn 😄
 
 
