@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amY3Ym50ZmJyZTR2Z2R4dnljZ3U5M2UzbmR1dzB6eDBtM2U2M2c0cCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/103liSxCY1NpLO/giphy.gif" width="600" alt="Ironman Suit Up" />
+</p> 
+
+
 Hi there 👋<br><br>
 
 🛠️ I’m working on backend projects using Node.js and Express, with a strong focus on JWT-based authentication and full-stack fundamentals.<br><br>
